@@ -155,6 +155,12 @@ module.exports = {
         release: 'release-2046',
       },
     },
+    {
+      resolve: 'gatsby-plugin-generate-embeds',
+      options: {
+        query: {},
+      },
+    },
     'gatsby-plugin-meta-redirect',
     {
       resolve: 'gatsby-plugin-gdpr-tracking',

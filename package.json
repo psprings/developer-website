@@ -70,9 +70,21 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.0.1",
     "jest-emotion": "^10.0.32",
+    "lodash": "^4.17.21",
+    "mdast-util-to-hast": "^10.2.0",
     "patch-package": "^6.2.2",
     "prettier": "2.2.1",
-    "react-test-renderer": "^16.13.1"
+    "react-test-renderer": "^16.13.1",
+    "rehype-stringify": "^8.0.0",
+    "remark-mdx": "^1.6.22",
+    "remark-mdx-remove-exports": "^1.6.22",
+    "remark-mdx-remove-imports": "^1.6.22",
+    "remark-mdxjs": "^2.0.0-next.0",
+    "remark-parse": "^9.0.0",
+    "unified": "^9.2.1",
+    "unist-builder": "^2.0.3",
+    "unist-util-is": "^4.1.0",
+    "unist-util-visit": "^2.0.3"
   },
   "resolutions": {
     "bl": "^4.0.3",
