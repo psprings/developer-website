@@ -19,7 +19,7 @@ export const teamMembers = [
     bio: (
       <p>
         Aaron Bassett is a recovering senior software engineer turned Senior
-        Developer Advocate with{' '}
+        choreDeveloper Advocate with{' '}
         <a href="https://mongodb.com" target="_blank" rel="noreferrer">
           MongoDB
         </a>
