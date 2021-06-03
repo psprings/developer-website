@@ -29,7 +29,6 @@ const BarItem = ({ index, children, id, count, disabled }) => {
         user-select: none;
         white-space: nowrap;
 
-
         .dark-mode & {
           border-bottom-color: var(--color-dark-300);
         }
